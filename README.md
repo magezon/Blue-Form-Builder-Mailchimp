@@ -88,6 +88,7 @@
         </tbody>
     </table>
 </div>
+<br>
 <div>
     <h2>Feature Full List</h2>
     <table>
@@ -140,7 +141,6 @@
         </div>
         <h3>After installing the plugin, I want to do a quick test on how it works? So how can I do that?</h3>
         <div class="panel">
-            <p dir="ltr">&nbsp;</p>
             <p dir="ltr">First, go to <strong>Content &gt; Manage Forms</strong>. Find <strong>MailChimp</strong> form in the grid. Then in <strong>Action</strong> column, click <strong>S</strong><strong>elect &gt; View</strong> to go to the form page on frontend store. After that, fill out the form. (Click <a href="http://blueformbuilder.m2.magezon.com/form/mailchimp" target="_blank" rel="noopener">here </a>to have a clearer view of how the form looks).</p>
             <p dir="ltr"><span id="docs-internal-guid-33a5103e-7fff-abd2-1566-e4bc388269e5">Second, open <strong>Content &gt; Form Submissions</strong>. &nbsp;Click <strong>View</strong> in <strong>Action</strong> column to open the submission you’ve made. On the top bar, click <strong>Sync to MailChimp</strong>. If you see a message like that in the red rectangle of the below image, so the subscriber has been successfully added to the MailChimp list. You can open your MailChimp list for further check</span>.&nbsp;</p>
             <p dir="ltr"><img title="MailChimp | Test the plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Test_the_plugin.png" alt="MailChimp | Test the plugin"></p>
@@ -174,6 +174,7 @@
         </div>
     </div>
 </div>
+<br>
 <div>
     <h2>Magezon Extensions</h2>
     <ul>
