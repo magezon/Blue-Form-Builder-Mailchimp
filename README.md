@@ -127,42 +127,35 @@
         <h3>Where can I find this plugin after installation?</h3>
         <div class="panel">
             <p>After installing this plugin, you can find it in the settings of every form. Open a form’s settings. Then click on “<a href="http://blueformbuilder.m2.magezon.com/autologin/backend?r=blueformbuilder/form/edit&amp;id=20&amp;active=plugins_mailchimp" target="_blank" rel="noopener">Plugins</a>” tab. You will see the plugin in <strong>MailChimp</strong> tab.</p>
-            <p><img title="MailChimp | Open plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Open_plugin.png" alt="MailChimp | Open plugin" width="1642" height="940"></p>
+            <p><img title="MailChimp | Open plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Open_plugin.png" alt="MailChimp | Open plugin"></p>
         </div>
         <h3>Is there anything required to activate the plugin?</h3>
         <div class="panel">
-            <p>&nbsp;</p>
             <p dir="ltr">Yes, to activate the plugin, you need to enter the API key that will allow our plugin to access your MailChimp account without you giving out your password. To do that, open <strong>Content</strong> tab on the admin sidebar. Then open <strong>Settings</strong>. On the left panel, click <strong>MailChimp</strong> tab. Enter API key in <strong>API Key</strong> field. Remember to choose “Yes” in <strong>Enabled </strong>field. To find or generate your API key, please click <a href="https://mailchimp.com/en/help/about-api-keys/#Find_or_Generate_Your_API_Key" target="_blank" rel="noopener">here</a>.</p>
-            <p dir="ltr"><img title="MailChimp | Enter API key" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Enter_API_key.png" alt="MailChimp | Enter API key" width="1920" height="1020"></p>
+            <p dir="ltr"><img title="MailChimp | Enter API key" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Enter_API_key.png" alt="MailChimp | Enter API key"></p>
         </div>
         <h3>Which kinds of form can I use MailChimp plugin with?</h3>
         <div class="panel">
-            <p>&nbsp;</p>
             <p dir="ltr">Basically, you can use MailChimp plugin with all kinds of forms. However, one condition is that these forms include email field.&nbsp;</p>
         </div>
         <h3>After installing the plugin, I want to do a quick test on how it works? So how can I do that?</h3>
         <div class="panel">
-            <p>&nbsp;</p>
             <p dir="ltr">&nbsp;</p>
             <p dir="ltr">First, go to <strong>Content &gt; Manage Forms</strong>. Find <strong>MailChimp</strong> form in the grid. Then in <strong>Action</strong> column, click <strong>S</strong><strong>elect &gt; View</strong> to go to the form page on frontend store. After that, fill out the form. (Click <a href="http://blueformbuilder.m2.magezon.com/form/mailchimp" target="_blank" rel="noopener">here </a>to have a clearer view of how the form looks).</p>
             <p dir="ltr"><span id="docs-internal-guid-33a5103e-7fff-abd2-1566-e4bc388269e5">Second, open <strong>Content &gt; Form Submissions</strong>. &nbsp;Click <strong>View</strong> in <strong>Action</strong> column to open the submission you’ve made. On the top bar, click <strong>Sync to MailChimp</strong>. If you see a message like that in the red rectangle of the below image, so the subscriber has been successfully added to the MailChimp list. You can open your MailChimp list for further check</span>.&nbsp;</p>
-            <p dir="ltr"><img title="MailChimp | Test the plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Test_the_plugin.png" alt="MailChimp | Test the plugin" width="1920" height="1020"></p>
+            <p dir="ltr"><img title="MailChimp | Test the plugin" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Test_the_plugin.png" alt="MailChimp | Test the plugin"></p>
         </div>
     </div>
     <div class="col-md-6"><h3 class="accordion">After subscribers are automatically added to my MailChimp list, when will they appear in the list? </h3>
         <div class="panel">
-            <p>&nbsp;</p>
             <p dir="ltr">This depends on the configuration of Cron Job.</p>
-            <p>&nbsp;</p>
             <p dir="ltr">Navigate to <strong>Stores &gt; Configuration</strong>. Then click <strong>Advanced &gt; System</strong> in the left panel. Open <strong>Cron configuration options for group: default</strong>&nbsp;tab. In <strong>Generate Schedules Every </strong>field, if you keep the default value (like the image below), so after 15 minutes, subscribers will appear in the MailChimp list. You can change this value by untick the checkbox “Use system value” next to this field and enter your wanted value.&nbsp;</p>
-            <p dir="ltr"><img title="MailChimp | When subscribers appear in MailChimp list " src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___When_to_see_subscribers_in_MailChimp_list.png" alt="MailChimp | When subscribers appear in MailChimp list " width="1642" height="940"></p>
+            <p dir="ltr"><img title="MailChimp | When subscribers appear in MailChimp list " src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___When_to_see_subscribers_in_MailChimp_list.png" alt="MailChimp | When subscribers appear in MailChimp list "></p>
         </div>
         <h3 class="accordion">How can I know subscribers were added to my MailChimp list?</h3>
         <div class="panel">
-            <p>&nbsp;</p>
-            <p dir="ltr">&nbsp;</p>
             <p dir="ltr">You can check that by navigating to <strong>Content &gt; Form Submissions</strong>. For each submission, if you see the MailChimp icon in the <strong>MailChimp</strong> column, it means that the subscriber of this submission was added to your MailChimp list.&nbsp;</p>
-            <p dir="ltr"><img title="MailChimp | Check whether subscribers were added to MailChimp list" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Check_if_subscribers_added_to_MailChimp_list.png" alt="MailChimp | Check whether subscribers were added to MailChimp list" width="1642" height="940"></p>
+            <p dir="ltr"><img title="MailChimp | Check whether subscribers were added to MailChimp list" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Check_if_subscribers_added_to_MailChimp_list.png" alt="MailChimp | Check whether subscribers were added to MailChimp list"></p>
         </div>
         <h3 class="accordion">I cannot choose the Magento edition to install this plugin. Why?</h3>
         <div class="panel">
