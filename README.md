@@ -3,12 +3,12 @@
 <br/><br/>
 <table>
     <td width="30%" valign="top"style="border: none; ">
-        <br><a href="https://www.blueformbuilder.com/blue-form-builder-mailchimp.html"><img src="https://www.blueformbuilder.com/pub/media/catalog/product/cache/5b184dbc4466ff75e0c23e054179cc32/b/l/blueformbuilder-mailchimp.png" alt="MailChimp plugin" aria-labelledby="labelledby1538121188674" class="fotorama__img" aria-hidden="false"><p>
+        <br><a href="https://www.blueformbuilder.com/blue-form-builder-mailchimp.html"><img src="https://www.magezon.com/pub/media/catalog/product/m/a/mailchimp.png" alt="MailChimp plugin" aria-labelledby="labelledby1538121188674" class="fotorama__img" aria-hidden="false"><p>
     <td style="border:none;"></br>
         <div class="product attribute overview">
             <div class="valune">
                 <p>
-                <p dir="ltr"><span><strong>MailChimp</strong> </span><span>plugin is a fast and easy tool to integrate your online forms with MailChimp email marketing service. After a form submission, it will automatically add the subscriber to your MailChimp list. An effortless way to grow your email list!</span></p><li>Seamless Integration</li>
+                <p dir="ltr"><span><strong>MailChimp</strong> </span><span>plugin is a fast and easy tool to integrate your online forms with MailChimp email marketing service. After a form submission, it will automatically add the subscriber to your MailChimp list. An effortless way to grow your email list!</span></p>
                 <ul class="firebase-list">
                     <li>Seamless Integration</li>
                     <li>Double Opt-in Support</li>
