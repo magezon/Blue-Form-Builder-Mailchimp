@@ -10,9 +10,9 @@
                 <p>
                 <p dir="ltr"><span><strong>MailChimp</strong> </span><span>plugin is a fast and easy tool to integrate your online forms with MailChimp email marketing service. After a form submission, it will automatically add the subscriber to your MailChimp list. An effortless way to grow your email list!</span></p>
                 <ul class="firebase-list">
-                    <li>Seamless Integration</li>
-                    <li>Double Opt-in Support</li>
-                    <li>Conditional Logic</li>
+                    <li><a href="#seamless">Seamless Integration</a></li>
+                    <li><a href="#double-opt">Double Opt-in Support</a></li>
+                    <li><a href="#conditional">Conditional Logic</a></li>
                 </ul>
                 <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><span id="docs-internal-guid-7e22d78d-7fff-db4e-e336-dd08ef26607a"><strong><span id="docs-internal-guid-5ac6a9bc-7fff-1996-dc73-b168485d31df"><span>MailChimp </span></span></strong><span id="docs-internal-guid-5ac6a9bc-7fff-1996-dc73-b168485d31df">is a plugin of </span><span id="docs-internal-guid-5ac6a9bc-7fff-1996-dc73-b168485d31df"><a title="Magento 2 Form Builder " href="https://www.magezon.com/magento-2-form-builder.html" target="_blank">Magento 2 Blue Form Builder</a> extension. <strong>Please pre-install Blue Form Builder</strong>. After that, install MailChimp plugin and it will be integrated with existing Blue Form Builder on your website</span><span>.</span></span></p>
             </div>
@@ -36,7 +36,7 @@
     <h2>Feature Highlights</h2>
     <table>
         <tbody>
-        <tr>
+        <tr id="seamless">
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Seamless Integration</h3>
@@ -54,7 +54,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="double-opt">
             <td width="50%">
                 <div class="col-md-6">
                     <div><img title="MailChimp | Double opt-in support" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/MailChimp_plugin___Double_opt-in.png" alt="MailChimp | Double opt-in support"></div>
@@ -68,7 +68,7 @@
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr id="conditional">
             <td width="50%">
                 <div class="col-md-6">
                     <h3>Conditional Logic</h3>
