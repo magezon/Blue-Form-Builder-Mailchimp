@@ -81,7 +81,7 @@
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img title="MailChimp | Conditional logic" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Conditional_Logic.png" alt="MailChimp | Conditional logic"></p>
+                    <p><img title="MailChimp | Conditional logic" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/MailChimp_plugin___Conditions_for_adding_subscribers_to_groups.png" alt="MailChimp | Conditional logic"></p>
                 </div>
             </td>
         </tr>
@@ -96,7 +96,7 @@
             <td width="40%" valign="top">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <ul>
-                        <li>Seamless integration&nbsp;</li>
+                        <li>Seamless integration </li>
                         <li>Double opt-in support</li>
                         <li>Conditional logic</li>
                     </ul>
