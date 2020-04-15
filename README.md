@@ -49,7 +49,7 @@
             </td>
             <td>
                 <div class="col-md-6">
-                    <p><img style="font-size: 1.17em;" title="MailChimp | Seamless integration" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Seamless_integration.png" alt="MailChimp | Seamless integration"
+                    <p><img style="font-size: 1.17em;" title="MailChimp | Seamless integration" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/MailChimp_plugin___Seamless_integration.png" alt="MailChimp | Seamless integration"
                     ></p>
                 </div>
             </td>
@@ -57,7 +57,7 @@
         <tr>
             <td width="50%">
                 <div class="col-md-6">
-                    <div><img title="MailChimp | Double opt-in support" src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/MailChimp_plugin___Double_opt-in_support.png" alt="MailChimp | Double opt-in support"></div>
+                    <div><img title="MailChimp | Double opt-in support" src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/MailChimp_plugin___Double_opt-in.png" alt="MailChimp | Double opt-in support"></div>
                 </div>
             </td>
             <td width="50%">
